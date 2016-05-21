@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Sat May 21 12:29:33 BRT 2016
+#Sat May 21 14:44:33 BRT 2016
 org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Alencar\\.m2\\repository\\org\\springframework\\spring-web\\4.2.6.RELEASE\\spring-web-4.2.6.RELEASE.jar=WEB-INF/lib/spring-web-4.2.6.RELEASE.jar
 org.eclipse.jst.jee.server\:/binary\:D\:\\repositorio\\appExemploSpringMVC\\WebContent\\WEB-INF\\lib\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
