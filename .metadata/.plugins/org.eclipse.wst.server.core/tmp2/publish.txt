@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Mar 20 13:28:38 BRT 2016
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Alencar\\workspace\\casaCodigo\\WebContent\\WEB-INF\\lib\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\cursosAlura\\springmvc\\fj21-tarefas\\WebContent\\WEB-INF\\lib\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar

@@ -1,0 +1,8 @@
+1454421308727	Move 'ValidationMessages.properties' to 'WEB-INF'
+1454421334213	Rename resource 'ValidationMessages.properties'
+1454425075636	Encapsulate field 'dataLancamento'
+1454427480032	Encapsulate field 'sumarioPath'
+1454432004320	Move 'arquivosapp' to 'WebContent'
+1454432316011	Delete element
+1454434321345	Move 'detalhes.jsp.html' to 'produtos'
+1454434331692	Rename resource 'detalhes.jsp.html'

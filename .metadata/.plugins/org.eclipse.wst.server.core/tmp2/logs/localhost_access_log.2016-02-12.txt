@@ -1,0 +1,16 @@
+127.0.0.1 - - [12/Feb/2016:17:32:54 -0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:33:01 -0200] "GET /casaCodigo/ HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:33:12 -0200] "GET /casaCodigo/listaProdutos HTTP/1.1" 500 5161
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:33:13 -0200] "GET /favicon.ico HTTP/1.1" 404 1016
+127.0.0.1 - - [12/Feb/2016:17:45:06 -0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:45:07 -0200] "GET /casaCodigo/ HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:45:13 -0200] "GET /casaCodigo/listaProdutos HTTP/1.1" 500 5161
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:46:48 -0200] "GET /casaCodigo/listaProdutos HTTP/1.1" 200 5226
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:46:52 -0200] "GET /detalhes?id=2 HTTP/1.1" 404 1010
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:47:07 -0200] "GET /casaCodigo/listaProdutos HTTP/1.1" 200 5586
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:47:08 -0200] "GET /casaCodigo/casaCodigo/detalhes?id=2 HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:47:11 -0200] "GET /casaCodigo/casaCodigo/detalhes?id=2 HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:47:26 -0200] "GET /casaCodigo/detalhes?id=2 HTTP/1.1" 500 5442
+127.0.0.1 - - [12/Feb/2016:17:48:53 -0200] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:48:53 -0200] "GET /casaCodigo/ HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [12/Feb/2016:17:48:59 -0200] "GET /casaCodigo/detalhes?id=2 HTTP/1.1" 500 5442
