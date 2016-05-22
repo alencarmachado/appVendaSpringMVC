@@ -2,7 +2,8 @@ package br.csi.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-//org.springframework.web.servlet.DispatcherServlet
+
+import br.csi.model.Produto;
 
 @Controller
 public class ControlerTeste {
@@ -14,4 +15,16 @@ public class ControlerTeste {
 		return "ok";
 	}
 	
+	@RequestMapping("adicionaProduto")
+	public String adicionaProduto(Produto p){
+		
+		System.out.println("----------------------------");
+		System.out.println("Descrição: "+p.getDescricao());
+		
+		return "ok";
+	}
+	
+	
 }
+
+
