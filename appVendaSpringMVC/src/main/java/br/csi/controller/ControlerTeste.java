@@ -21,7 +21,7 @@ public class ControlerTeste {
 		System.out.println("----------------------------");
 		System.out.println("Descrição: "+p.getDescricao());
 		
-		return "ok";
+		return "template";
 	}
 	
 	
